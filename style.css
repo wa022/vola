@@ -190,7 +190,7 @@ p {
 
 .scoopy {
 	background: url(https://himigatliwanag.files.wordpress.com/2016/01/scoopy.jpg) bottom left;
-	    height: 100px;
+	    height: 495px;
 	margin-bottom: 10px;
 	width: 100%;
 }
@@ -345,7 +345,7 @@ footer {
 
 @media only screen and ( max-width: 414px ) {
  	.scoopy {
-		height: 495px;
+		height: 300px;
  	}
 
  	.description {
